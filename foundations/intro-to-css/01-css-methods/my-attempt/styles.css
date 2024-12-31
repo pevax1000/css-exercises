@@ -1,0 +1,16 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif; /* Replace with your desired font */
+}
+
+#title {
+    color: white; 
+    background-color: rgb(187, 0, 255);
+    width: 100%;
+    height: 82px;
+    padding: 16px;
+    font-size: 48px;
+    text-align: center; /* Centers the text horizontally */
+    display: flex;
+    align-items: center; /* Centers the text vertically */
+    justify-content: center; /* Centers the text horizontally */
+}
