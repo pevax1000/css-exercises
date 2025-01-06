@@ -93,3 +93,9 @@ button.cancel {
 .text {
   margin-bottom: 16px;
 }
+
+.button-footer {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+}
